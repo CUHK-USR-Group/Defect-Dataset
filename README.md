@@ -2,6 +2,10 @@
 
 Deep learning breakthrough stimulates new research trends in civil infrastructure inspection, whereas the lack of quality-guaranteed, human-annotated, free-of-charge, and publicly available defect datasets with sufficient amounts of data hinders the progress of deep learning in defect inspection. To boost research in deep learning-based defect inspection, we review and summarizes 40 publicly available defect datasets, covering common defects in various types of buildings and infrastructures. The taxonomy of the datasets is proposed based on specific deep learning objectives (classification, segmentation, and detection). Clarifications are also made for each dataset regarding its corresponding data volume, data resolution, data source, defect categories covered, infrastructure types focused, material types targeted, algorithms adopted for validation, annotation levels, and context levels.
 
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Taxonomy.PNG">
+
+As demonstrated in the above figure, the summarized defect datasets cover various types of infrastructure such as pavements, bridges, buildings, tunnels, and dams with different materials such as concrete, asphalt, steel, masonry, and wood. These datasets cover the most common defect types: crack, spalling, delamination, corrosion, and efflorescence. As to data types, most datasets utilize optical images, with IRT images, IE signals, and GPR signals as alternatives. Optical images are typically used to detect surface defects of the structure, while IRT images, IE signals, and GPR signals can reveal subsurface defects. Besides, these datasets vary in the level of image context information, i.e., the pixel level, object level, and scene level. The data contained in different datasets are collected via hand-held sensors, robotic platforms, or UAV platforms. Especially, it is promising to utilize the UAV platform with onboard sensors to conduct defect inspection and data collection in GPS-denied environment.
+
 ## Classification-Oriented Defect Dataset
 
 Dataset | Year | Structure Type | Number of Images |
@@ -20,8 +24,9 @@ SDNET-2018 | 2018 | Bridge, Building and Pavement | 56,092 |
 Qurishee | 2020 | Not Clarified | 2,088 |
 
 Sample images of above classification-oriented datasets are as follows:
-
-<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Classification_Sample_Images.png" width=35% height=35%>
+<p align="center">
+  <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Classification_Sample_Images.png" width=35% height=35%>
+</p>
 
 ## Segmentation-Oriented Defect Dataset
 
@@ -50,7 +55,11 @@ CSD | 2020 | Multiple | 11,298 |
 Bai-2021 | 2021 | Building, Bridge | 2,229 |
 CCCD | 2021 | Multiple | 10,995 |
 
+Sample images of above segmentation-oriented datasets are as follows:
+
+<p align="center">
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=80% height=80%>
+</p>
 
 ## Detection-Oriented Defect Dataset
 
@@ -62,4 +71,8 @@ PID | 2020 | Pavement | 7,237 |
 CODEBRIM | 2019 | Bridge | 1,590 |
 GC10-DET | 2020 | Pavement | 3,570 |
 
+Sample images of above detection-oriented datasets are as follows:
+
+<p align="center">
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Detection_Sample_Images.png" width=40% height=40%>
+</p>

@@ -19,6 +19,11 @@ CSSC | 2017 | Bridge and Building | 89,287 |
 SDNET-2018 | 2018 | Bridge, Building and Pavement | 56,092 |
 Qurishee | 2020 | Not Clarified | 2,088 |
 
+Sample images of above classification-oriented datasets are as follows:
+
+![Sample images of classification datasets]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Classification_Sample_Images.png)
+
+
 ## Segmentation-Oriented Defect Dataset
 
 Dataset | Year | Structure Type | Number of Images |

@@ -50,7 +50,7 @@ CSD | 2020 | Multiple | 11,298 |
 Bai-2021 | 2021 | Building, Bridge | 2,229 |
 CCCD | 2021 | Multiple | 10,995 |
 
-<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=35% height=35%>
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=50% height=50%>
 
 ## Detection-Oriented Defect Dataset
 

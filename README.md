@@ -71,6 +71,8 @@ PID | 2020 | Pavement | 7,237 |
 CODEBRIM | 2019 | Bridge | 1,590 |
 GC10-DET | 2020 | Pavement | 3,570 |
 
+Here, the RDD-2018 and RDD-2019 are omited.
+
 Sample images of above detection-oriented datasets are as follows:
 
 <p align="center">

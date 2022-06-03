@@ -21,8 +21,7 @@ Qurishee | 2020 | Not Clarified | 2,088 |
 
 Sample images of above classification-oriented datasets are as follows:
 
-![Sample images of classification datasets]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Classification_Sample_Images.png)
-
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Classification_Sample_Images.png" width=35% height=35%>
 
 ## Segmentation-Oriented Defect Dataset
 
@@ -50,6 +49,8 @@ UAV75 | 2019 | Not Clarified | 75 |
 CSD | 2020 | Multiple | 11,298 |
 Bai-2021 | 2021 | Building, Bridge | 2,229 |
 CCCD | 2021 | Multiple | 10,995 |
+
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=35% height=35%>
 
 ## Detection-Oriented Defect Dataset
 

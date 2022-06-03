@@ -75,7 +75,7 @@ RDD-2020 | 2020 | Pavement | 26,336 |
 Qurishee (IRT) | 2020 | Pavement | 108 (IRT), 2620 (RGB) |
 PID | 2020 | Pavement | 7,237 |
 CODEBRIM | 2019 | Bridge | 1,590 |
-GC10-DET | 2020 | Pavement | 3,570 |
+GC10-DET | 2020 | Industrial Plant | 3,570 |
 
 Here, the RDD-2018 and RDD-2019 are omited.
 

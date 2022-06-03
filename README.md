@@ -6,6 +6,12 @@ Deep learning breakthrough stimulates new research trends in civil infrastructur
 
 As demonstrated in the above figure, the summarized defect datasets cover various types of infrastructure such as pavements, bridges, buildings, tunnels, and dams with different materials such as concrete, asphalt, steel, masonry, and wood. These datasets cover the most common defect types: crack, spalling, delamination, corrosion, and efflorescence. As to data types, most datasets utilize optical images, with IRT images, IE signals, and GPR signals as alternatives. Optical images are typically used to detect surface defects of the structure, while IRT images, IE signals, and GPR signals can reveal subsurface defects. Besides, these datasets vary in the level of image context information, i.e., the pixel level, object level, and scene level. The data contained in different datasets are collected via hand-held sensors, robotic platforms, or UAV platforms. Especially, it is promising to utilize the UAV platform with onboard sensors to conduct defect inspection and data collection in GPS-denied environment.
 
+For more detailed description of the datasets, please refer to our paper (under review):
+
+[Datasets and Processing Methods for Boosting Visual Inspection of Civil Infrastructure: A Comprehensive Review and Case Study on Crack Classification, Segmentation, and Detection](https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/CONBUILDMAT-S-22-06330%20(1).pdf)
+
+
+
 ## Classification-Oriented Defect Dataset
 
 Dataset | Year | Structure Type | Number of Images |

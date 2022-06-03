@@ -62,4 +62,4 @@ PID | 2020 | Pavement | 7,237 |
 CODEBRIM | 2019 | Bridge | 1,590 |
 GC10-DET | 2020 | Pavement | 3,570 |
 
-
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Detection_Sample_Images.png" width=30% height=30%>

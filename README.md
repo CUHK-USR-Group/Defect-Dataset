@@ -6,4 +6,20 @@ Deep learning breakthrough stimulates new research trends in civil infrastructur
 
 Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |
-Seconds | 301 | 283 | 290 |
+GAPs-v1 | 2017 | Pavement | 6.3 Million |
+--- | --- | --- | --- |
+GAPs-v2 | 2019 | Pavement | 6.7 Million |
+--- | --- | --- | --- |
+CBID | 2017 | Bridge | 1,028 |
+--- | --- | --- | --- |
+Xu | 2019 | Bridge | 6,069 |
+--- | --- | --- | --- |
+Philip | 2019 | Bridge | 3,607 |
+--- | --- | --- | --- |
+KrakN | 2020 | Bridge | 16,114 |
+--- | --- | --- | --- |
+DCTCD | 2021 | Bridge | 250 |
+--- | --- | --- | --- |
+CCIC | 2018 | Building | 40,000 |
+--- | --- | --- | --- |
+\phi-Net | 2018 | Building | 40,000 |

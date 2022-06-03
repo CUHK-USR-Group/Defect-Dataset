@@ -22,4 +22,10 @@ DCTCD | 2021 | Bridge | 250 |
 --- | --- | --- | --- |
 CCIC | 2018 | Building | 40,000 |
 --- | --- | --- | --- |
-$\phi$-Net | 2018 | Building | 40,000 |
+$\phi$-Net | 2020 | Building | 36,413 |
+--- | --- | --- | --- |
+CSSC | 2017 | Bridge and Building | 89,287 |
+--- | --- | --- | --- |
+SDNET-2018 | 2018 | Bridge, Building and Pavement | 56,092 |
+--- | --- | --- | --- |
+Qurishee | 2020 | Not Clarified | 2,088 |

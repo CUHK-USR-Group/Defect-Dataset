@@ -50,7 +50,7 @@ CSD | 2020 | Multiple | 11,298 |
 Bai-2021 | 2021 | Building, Bridge | 2,229 |
 CCCD | 2021 | Multiple | 10,995 |
 
-<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=70% height=70%>
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=80% height=80%>
 
 ## Detection-Oriented Defect Dataset
 
@@ -62,4 +62,4 @@ PID | 2020 | Pavement | 7,237 |
 CODEBRIM | 2019 | Bridge | 1,590 |
 GC10-DET | 2020 | Pavement | 3,570 |
 
-<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Detection_Sample_Images.png" width=30% height=30%>
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Detection_Sample_Images.png" width=40% height=40%>

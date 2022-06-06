@@ -49,7 +49,7 @@ Dataset | Year | Structure Type | Number of Images |
 [Highway-Crack](https://drive.google.com/drive/folders/1HyFDPPaacgsrPkMBwHhXwWL8Vtr8uabp?usp=sharing) | 2021 | Pavement | 5,275 |
 [CCIC-600](https://drive.google.com/drive/folders/1hit2K12dL4s8O3qz_qA0xR2DYr1mEKz9?usp=sharing) | 2019 | Bridge | 600 |
 [BCL](https://drive.google.com/drive/folders/1MkG3St6t7VjLf22IgniK3YsmIlrKgyRM?usp=sharing) | 2021 | Bridge | 11,000 |
-[CCSSS](https://drive.google.com/drive/folders/1MkG3St6t7VjLf22IgniK3YsmIlrKgyRM?usp=sharing) | 2021 | Bridge | 440 |
+[CCSSS](https://drive.google.com/drive/folders/1-o4nhqNonEChvYQ62B89r_WLSgZt52P3?usp=sharing) | 2021 | Bridge | 440 |
 [LCW](https://drive.google.com/drive/folders/1MkG3St6t7VjLf22IgniK3YsmIlrKgyRM?usp=sharing) | 221 | Bridge | 440 |
 [DeepCrack](https://drive.google.com/drive/folders/1jPNGWTLYz_hYdn9KPwXHTg8MF6q8vTrb?usp=sharing) | 2019 | Building | 537 |
 [Bai-2020](https://drive.google.com/drive/folders/1JnrU1eLBxl9EE3T2_e5J1W-pkzMaMm05?usp=sharing) | 2020 | Building | 853 |

@@ -16,7 +16,7 @@ For more detailed description of the datasets, please refer to our paper (under 
 
 Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |
-GAPs-v1 | 2017 | Pavement | 6.3 Million |
+[GAPs-v1]() | 2017 | Pavement | 6.3 Million |
 GAPs-v2 | 2019 | Pavement | 6.7 Million |
 CBID | 2017 | Bridge | 1,028 |
 Xu | 2019 | Bridge | 6,069 |
@@ -38,7 +38,7 @@ Sample images of above classification-oriented datasets are as follows:
 
 Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |
-Sylvie | 2011 | Pavement | 42 |
+[Sylvie](https://pan.baidu.com/s/1vsTNULc9bqFujRkpSg4how) | 2011 | Pavement | 42 |
 CrackTree | 2012 | Pavement | 206 |
 AEL | 2016 | Pavement | 68 |
 CFD | 2016 | Pavement | 118 |

@@ -45,7 +45,7 @@ Dataset | Year | Structure Type | Number of Images |
 [Crack500](https://drive.google.com/drive/folders/1rbGkFrIJJQ45qcFmrSoNoPfzG5yT0YYS?usp=sharing) | 2019 | Pavement | 3,368 |
 [GAPs384](https://drive.google.com/drive/folders/1GpTNx7zCFbET264Ch_riqQQnfi0pEbIo?usp=sharing) | 2019 | Pavement | 384 |
 [EdmCrack600](https://drive.google.com/drive/folders/1q5sXVdNruXR0ay5RU57_RYmHmgzNuAeO?usp=sharing) | 2020 | Pavement | 600 |
-[GAPs-10m](https://drive.google.com/drive/folders/1q5sXVdNruXR0ay5RU57_RYmHmgzNuAeO?usp=sharing) | 2021 | Pavement | 20 |
+[GAPs-10m](https://drive.google.com/drive/folders/1bOEKVYA9i2Bx5HwNhpshK359mJuJhjdn?usp=sharing) | 2021 | Pavement | 20 |
 [Highway-Crack](https://drive.google.com/drive/folders/1HyFDPPaacgsrPkMBwHhXwWL8Vtr8uabp?usp=sharing) | 2021 | Pavement | 5,275 |
 [CCIC-600](https://drive.google.com/drive/folders/1hit2K12dL4s8O3qz_qA0xR2DYr1mEKz9?usp=sharing) | 2019 | Bridge | 600 |
 [BCL](https://drive.google.com/drive/folders/1MkG3St6t7VjLf22IgniK3YsmIlrKgyRM?usp=sharing) | 2021 | Bridge | 11,000 |

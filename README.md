@@ -53,7 +53,7 @@ Dataset | Year | Structure Type | Number of Images |
 [LCW](https://drive.google.com/drive/folders/1SipN8W0yc0AU2Pf-fbLqXr8xtSsfmCCR?usp=sharing) | 221 | Bridge | 440 |
 [DeepCrack](https://drive.google.com/drive/folders/1jPNGWTLYz_hYdn9KPwXHTg8MF6q8vTrb?usp=sharing) | 2019 | Building | 537 |
 [Bai-2020](https://drive.google.com/drive/folders/1JnrU1eLBxl9EE3T2_e5J1W-pkzMaMm05?usp=sharing) | 2020 | Building | 853 |
-[Masonry](https://drive.google.com/drive/folders/1JnrU1eLBxl9EE3T2_e5J1W-pkzMaMm05?usp=sharing) | 2021 | Building | 11,491 |
+[Masonry](https://drive.google.com/drive/folders/1PCZoszNupCU8IfzENF8uW7td66vWnNf3?usp=sharing) | 2021 | Building | 11,491 |
 [Ren](https://drive.google.com/drive/folders/155TxDX7m68b7iokKIz2l_q2sPeXsTxLS?usp=sharing) | 2020 | Tunnel | 919 |
 [Sandra (IRT)](https://drive.google.com/drive/folders/155TxDX7m68b7iokKIz2l_q2sPeXsTxLS?usp=sharing) | 2020 | Dam | 517 |
 [UAV75](https://drive.google.com/drive/folders/155TxDX7m68b7iokKIz2l_q2sPeXsTxLS?usp=sharing) | 2019 | Not Clarified | 75 |

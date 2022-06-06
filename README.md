@@ -40,26 +40,26 @@ Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |
 [Sylvie](https://drive.google.com/drive/folders/1mAzmUFpFguNng3457Ks73u5X87kfJxaU?usp=sharing) | 2011 | Pavement | 42 |
 [CrackTree](https://drive.google.com/drive/folders/14ewFWnou0ZvyP9JMour3aiz0Zmc3R80x?usp=sharing) | 2012 | Pavement | 206 |
-AEL | 2016 | Pavement | 68 |
-CFD | 2016 | Pavement | 118 |
-Crack500 | 2019 | Pavement | 3,368 |
-GAPs384 | 2019 | Pavement | 384 |
-EdmCrack600 | 2020 | Pavement | 600 |
-GAPs-10m | 2021 | Pavement | 20 |
-Highway-Crack | 2021 | Pavement | 5,275 |
-CCIC-600 | 2019 | Bridge | 600 |
-BCL | 2021 | Bridge | 11,000 |
-CCSSS | 2021 | Bridge | 440 |
-LCW | 221 | Bridge | 440 |
-DeepCrack | 2019 | Building | 537 |
-Bai-2020 | 2020 | Building | 853 |
-Masonry | 2021 | Building | 11,491 |
-Ren | 2020 | Tunnel | 919 |
-Sandra (IRT) | 2020 | Dam | 517 |
-UAV75 | 2019 | Not Clarified | 75 |
-CSD | 2020 | Multiple | 11,298 |
-Bai-2021 | 2021 | Building, Bridge | 2,229 |
-CCCD | 2021 | Multiple | 10,995 |
+[AEL](https://drive.google.com/drive/folders/15GxhpIqdmed8q3B93KRYHhzdPHpFCId_?usp=sharing) | 2016 | Pavement | 68 |
+[CFD](https://drive.google.com/drive/folders/1_PH9wFQJW_5hVnUm1xN1Xbxq3TxA1F_H?usp=sharing) | 2016 | Pavement | 118 |
+[Crack500](https://drive.google.com/drive/folders/1rbGkFrIJJQ45qcFmrSoNoPfzG5yT0YYS?usp=sharing) | 2019 | Pavement | 3,368 |
+[GAPs384](https://drive.google.com/drive/folders/1GpTNx7zCFbET264Ch_riqQQnfi0pEbIo?usp=sharing) | 2019 | Pavement | 384 |
+[EdmCrack600](https://drive.google.com/drive/folders/1q5sXVdNruXR0ay5RU57_RYmHmgzNuAeO?usp=sharing) | 2020 | Pavement | 600 |
+[GAPs-10m](https://drive.google.com/drive/folders/1q5sXVdNruXR0ay5RU57_RYmHmgzNuAeO?usp=sharing) | 2021 | Pavement | 20 |
+[Highway-Crack](https://drive.google.com/drive/folders/1HyFDPPaacgsrPkMBwHhXwWL8Vtr8uabp?usp=sharing) | 2021 | Pavement | 5,275 |
+[CCIC-600](https://drive.google.com/drive/folders/1hit2K12dL4s8O3qz_qA0xR2DYr1mEKz9?usp=sharing) | 2019 | Bridge | 600 |
+[BCL](https://drive.google.com/drive/folders/1MkG3St6t7VjLf22IgniK3YsmIlrKgyRM?usp=sharing) | 2021 | Bridge | 11,000 |
+[CCSSS](https://drive.google.com/drive/folders/1MkG3St6t7VjLf22IgniK3YsmIlrKgyRM?usp=sharing) | 2021 | Bridge | 440 |
+[LCW](https://drive.google.com/drive/folders/1MkG3St6t7VjLf22IgniK3YsmIlrKgyRM?usp=sharing) | 221 | Bridge | 440 |
+[DeepCrack](https://drive.google.com/drive/folders/1jPNGWTLYz_hYdn9KPwXHTg8MF6q8vTrb?usp=sharing) | 2019 | Building | 537 |
+[Bai-2020](https://drive.google.com/drive/folders/1JnrU1eLBxl9EE3T2_e5J1W-pkzMaMm05?usp=sharing) | 2020 | Building | 853 |
+[Masonry](https://drive.google.com/drive/folders/1JnrU1eLBxl9EE3T2_e5J1W-pkzMaMm05?usp=sharing) | 2021 | Building | 11,491 |
+[Ren](https://drive.google.com/drive/folders/155TxDX7m68b7iokKIz2l_q2sPeXsTxLS?usp=sharing) | 2020 | Tunnel | 919 |
+[Sandra (IRT)](https://drive.google.com/drive/folders/155TxDX7m68b7iokKIz2l_q2sPeXsTxLS?usp=sharing) | 2020 | Dam | 517 |
+[UAV75](https://drive.google.com/drive/folders/155TxDX7m68b7iokKIz2l_q2sPeXsTxLS?usp=sharing) | 2019 | Not Clarified | 75 |
+[CSD](https://drive.google.com/drive/folders/1cwao5hZANp8m6_VA8_XhQP6-qh9ksQ1X?usp=sharing) | 2020 | Multiple | 11,298 |
+[Bai-2021](https://drive.google.com/drive/folders/1cwao5hZANp8m6_VA8_XhQP6-qh9ksQ1X?usp=sharing) | 2021 | Building, Bridge | 2,229 |
+[CCCD](https://drive.google.com/drive/folders/1cwao5hZANp8m6_VA8_XhQP6-qh9ksQ1X?usp=sharing) | 2021 | Multiple | 10,995 |
 
 Sample images of above segmentation-oriented datasets are as follows:
 

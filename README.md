@@ -73,7 +73,7 @@ Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |
 [RDD-2020](https://drive.google.com/drive/folders/1gTK_7kUCjOTkG7lzSqrlG3z3Ft1MJ3W7?usp=sharing) | 2020 | Pavement | 26,336 |
 [Qurishee (IRT)](https://drive.google.com/drive/folders/16vjyhuDscyFkXUxAurGq-iRMQI6BqD4n?usp=sharing) | 2020 | Pavement | 108 (IRT), 2620 (RGB) |
-[PID](https://drive.google.com/drive/folders/16vjyhuDscyFkXUxAurGq-iRMQI6BqD4n?usp=sharing) | 2020 | Pavement | 7,237 |
+[PID](https://drive.google.com/drive/folders/1hD0XJ5Ao3FFgGuc2KwwXkb_yYPVt0M9b?usp=sharing) | 2020 | Pavement | 7,237 |
 [CODEBRIM](https://drive.google.com/drive/folders/12B2ongbzxMDzrpYAXlpQuvcxCjkX-RXN?usp=sharing) | 2019 | Bridge | 1,590 |
 [GC10-DET](https://drive.google.com/drive/folders/1_RFn8MT8RBYZVX5mzg0Gp-sRBEzB5vI6?usp=sharing) | 2020 | Industrial Plant | 3,570 |
 

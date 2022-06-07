@@ -10,7 +10,7 @@ For more detailed description of the datasets, please refer to our paper (under 
 
 [Datasets and Processing Methods for Boosting Visual Inspection of Civil Infrastructure: A Comprehensive Review and Case Study on Crack Classification, Segmentation, and Detection](https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/CONBUILDMAT-S-22-06330%20(1).pdf)
 
-## Self-Collected Defect Dataset
+## [Self-Collected Defect Dataset](https://drive.google.com/drive/folders/1ea4YqIa9mfldCLWFquAKJXnCB3QzbgId?usp=sharing)
 
 Image Resolution | Year | Structure Type | Number of Images | Defect Type | Annotation Level
 --- | --- | --- | --- | --- | --- |

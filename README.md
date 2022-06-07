@@ -13,6 +13,7 @@ For more detailed description of the datasets, please refer to our paper (under 
 ## Self-Collected Defect Dataset
 
 Image Resolution | Year | Structure Type | Number of Images | Defect Type | Annotation Level
+--- | --- | --- | --- | --- | --- |
 512x512 | 2022 | Building | 1160 | Spalling | Pixel Level
 512x512 | 2022 | Building | 5462 | Crack | Pixel Level
 

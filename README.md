@@ -64,7 +64,7 @@ Dataset | Year | Structure Type | Number of Images |
 Sample images of above segmentation-oriented datasets are as follows:
 
 <p align="center">
-<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=80% height=80%>
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=100% height=100%>
 </p>
 
 ## Detection-Oriented Defect Dataset

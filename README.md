@@ -10,7 +10,17 @@ For more detailed description of the datasets, please refer to our paper (under 
 
 [Datasets and Processing Methods for Boosting Visual Inspection of Civil Infrastructure: A Comprehensive Review and Case Study on Crack Classification, Segmentation, and Detection](https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/CONBUILDMAT-S-22-06330%20(1).pdf)
 
+## Self-Collected Defect Dataset
 
+Image Resolution | Year | Structure Type | Number of Images | Defect Type | Annotation Level
+512x512 | 2022 | Building | 1160 | Spalling | Pixel Level
+512x512 | 2022 | Building | 5462 | Crack | Pixel Level
+
+Sample images of our self-collected defect dataset are as follows:
+
+<p align="center">
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Mawan_Sample_Images.png" width=100% height=100%>
+</p>
 
 ## Classification-Oriented Defect Dataset
 

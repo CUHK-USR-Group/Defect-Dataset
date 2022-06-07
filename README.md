@@ -1,4 +1,4 @@
-# Defect Datasets --- Over 400,000 Labeled Images in Total 
+## Visual Defect Datasets --- Over 400,000 Labeled Images in Total 
 
 Deep learning breakthrough stimulates new research trends in civil infrastructure inspection, whereas the lack of quality-guaranteed, human-annotated, free-of-charge, and publicly available defect datasets with sufficient amounts of data hinders the progress of deep learning in defect inspection. To boost research in deep learning-based defect inspection, we review and summarize **40 publicly available defect datasets**, covering common defects in various types of buildings and infrastructures. **The taxonomy of the datasets** is proposed based on **specific deep learning objectives** (classification, segmentation, and detection). Clarifications are also made for each dataset regarding its corresponding **data volume, data resolution, data source, defect categories covered, infrastructure types focused, material types targeted, algorithms adopted for validation, annotation levels, and context levels**.
 
@@ -10,9 +10,15 @@ For more detailed description of the datasets, please refer to our paper (under 
 
 [Datasets and Processing Methods for Boosting Visual Inspection of Civil Infrastructure: A Comprehensive Review and Case Study on Crack Classification, Segmentation, and Detection](https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/CONBUILDMAT-S-22-06330%20(1).pdf)
 
+Besides, we have conducted defect inspection in Hong Kong and established our dataset for building crack and spalling segmentation.
+
+Moreover, we have noticed a multi-modal defect dataset, [SDNET-2021](https://commons.und.edu/data/19/), which contains 1,936 annotated IE signals, over 663,102 annotated GPR signals and 5 mosaic annotated IRT images containing about 4,580,680 annotated pixels collected during 2020 summer from 5 in-service bridge decks in Grand forks, ND, USA. 
+
+Here, we concentrate on **VISUAL** defect datasets.
+
 For ***downloading*** the dataset and corresponding reference papers, just click the name of corresponding dataset in the table below.
 
-## [Self-Collected Defect Dataset](https://drive.google.com/drive/folders/1ea4YqIa9mfldCLWFquAKJXnCB3QzbgId?usp=sharing)
+### [Self-Collected Defect Dataset](https://drive.google.com/drive/folders/1ea4YqIa9mfldCLWFquAKJXnCB3QzbgId?usp=sharing)
 
 Image Resolution | Year | Structure Type | Number of Images | Defect Type | Annotation Level
 --- | --- | --- | --- | --- | --- |
@@ -25,7 +31,7 @@ Sample images of our self-collected defect dataset are as follows:
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Mawan_Sample_Images.png" width=100% height=100%>
 </p>
 
-## Classification-Oriented Defect Dataset
+### Classification-Oriented Defect Dataset
 
 Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |
@@ -47,7 +53,7 @@ Sample images of above classification-oriented datasets are as follows:
   <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Classification_Sample_Images.png" width=100% height=100%>
 </p>
 
-## Segmentation-Oriented Defect Dataset
+### Segmentation-Oriented Defect Dataset
 
 Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |
@@ -80,7 +86,7 @@ Sample images of above segmentation-oriented datasets are as follows:
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Segmentation_Sample_Images.png" width=100% height=100%>
 </p>
 
-## Detection-Oriented Defect Dataset
+### Detection-Oriented Defect Dataset
 
 Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |

@@ -31,7 +31,7 @@ Dataset | Year | Structure Type | Number of Images |
 
 Sample images of above classification-oriented datasets are as follows:
 <p align="center">
-  <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Classification_Sample_Images.png" width=35% height=35%>
+  <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Classification_Sample_Images.png" width=100% height=100%>
 </p>
 
 ## Segmentation-Oriented Defect Dataset

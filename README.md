@@ -101,5 +101,5 @@ Here, the RDD-2018 and RDD-2019 are omited.
 Sample images of above detection-oriented datasets are as follows:
 
 <p align="center">
-<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Detection_Sample_Images.png" width=40% height=40%>
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Detection_Sample_Images.png" width=70% height=70%>
 </p>

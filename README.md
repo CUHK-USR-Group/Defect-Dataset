@@ -17,17 +17,17 @@ For more detailed description of the datasets, please refer to our paper (under 
 Dataset | Year | Structure Type | Number of Images |
 --- | --- | --- | --- |
 [GAPs-v1](https://pan.baidu.com/s/1PjTg8hhbg0-GAMWVh_tSZw?pwd=0520) | 2017 | Pavement | 6.3 Million |
-GAPs-v2 | 2019 | Pavement | 6.7 Million |
-CBID | 2017 | Bridge | 1,028 |
-Xu | 2019 | Bridge | 6,069 |
-Philip | 2019 | Bridge | 3,607 |
-KrakN | 2020 | Bridge | 16,114 |
-DCTCD | 2021 | Bridge | 250 |
-CCIC | 2018 | Building | 40,000 |
-$\phi$-Net | 2020 | Building | 36,413 |
-CSSC | 2017 | Bridge and Building | 89,287 |
-SDNET-2018 | 2018 | Bridge, Building and Pavement | 56,092 |
-Qurishee | 2020 | Not Clarified | 2,088 |
+[GAPs-v2](https://pan.baidu.com/s/1tnKoxykuI7m8qkJ9NTErcA?pwd=0520) | 2019 | Pavement | 6.7 Million |
+[CBID](https://pan.baidu.com/s/15mmm55QuT_Z3Ba7x6wEGYQ?pwd=0520) | 2017 | Bridge | 1,028 |
+[Xu](https://pan.baidu.com/s/1h-rEEyeQLOKEZGh7RZnMWw?pwd=0520) | 2019 | Bridge | 6,069 |
+[Philip](https://pan.baidu.com/s/1oAHRsOMqR0_c-Jp0DKC7rw?pwd=0520) | 2019 | Bridge | 3,607 |
+[KrakN](https://pan.baidu.com/s/1OdVEJoxSdF1dZgrcmEXoLw?pwd=0520) | 2020 | Bridge | 16,114 |
+[DCTCD](https://pan.baidu.com/s/1mABE78Q3_Bv5EXD5bQfhAg?pwd=0520) | 2021 | Bridge | 250 |
+[CCIC](https://pan.baidu.com/s/1eovsxwuNXWeVsKd7TyVwvw?pwd=0520) | 2018 | Building | 40,000 |
+[$\phi$-Net](https://pan.baidu.com/s/15hiPmDU7OYiYlJIO801xmg?pwd=0520) | 2020 | Building | 36,413 |
+[CSSC](https://pan.baidu.com/s/1yZcAdtVOaHUr7NAwQAsthA?pwd=0520) | 2017 | Bridge and Building | 89,287 |
+[SDNET-2018](https://pan.baidu.com/s/1kbwFM3KTdTH_5QCvVCazuw?pwd=0520) | 2018 | Bridge, Building and Pavement | 56,092 |
+[Qurishee_IRT](https://pan.baidu.com/s/1uq_au2f8Ok2Gxwskn9nd5Q?pwd=0520) | 2020 | Not Clarified | 2,088 |
 
 Sample images of above classification-oriented datasets are as follows:
 <p align="center">

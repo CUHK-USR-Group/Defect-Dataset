@@ -47,7 +47,7 @@ Dataset | Year | Structure Type | Number of Images |
 [CSSC](https://pan.baidu.com/s/1yZcAdtVOaHUr7NAwQAsthA?pwd=0520) | 2017 | Bridge and Building | 89,287 |
 [SDNET-2018](https://pan.baidu.com/s/1kbwFM3KTdTH_5QCvVCazuw?pwd=0520) | 2018 | Bridge, Building and Pavement | 56,092 |
 [Qurishee_IRT](https://pan.baidu.com/s/1uq_au2f8Ok2Gxwskn9nd5Q?pwd=0520) | 2020 | Not Clarified | 2,088 |
-| | Total | 13,250,948 |
+| |  | Total | 13,250,948 
 
 Sample images of above classification-oriented datasets are as follows:
 <p align="center">

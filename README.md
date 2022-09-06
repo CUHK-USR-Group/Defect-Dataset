@@ -75,12 +75,12 @@ Dataset | Year | Structure Type | Number of Images |
 [Bai-2020](https://drive.google.com/drive/folders/1JnrU1eLBxl9EE3T2_e5J1W-pkzMaMm05?usp=sharing) | 2020 | Building | 853 |
 [Masonry](https://drive.google.com/drive/folders/1PCZoszNupCU8IfzENF8uW7td66vWnNf3?usp=sharing) | 2021 | Building | 11,491 |
 [Ren](https://drive.google.com/drive/folders/155TxDX7m68b7iokKIz2l_q2sPeXsTxLS?usp=sharing) | 2020 | Tunnel | 919 |
-[Sandra (IRT)](https://drive.google.com/drive/folders/10c2lT-Q7E4FAabbEDqT5KCWbcfQe7UWs?usp=sharing) | 2020 | Dam | 517 |
+[Sandra (IRT)](https://drive.google.com/drive/folders/10c2lT-Q7E4FAabbEDqT5KCWbcfQe7UWs?usp=sharing) | 2020 | Dam | 517 (IRT) |
 [UAV75](https://drive.google.com/drive/folders/1pXOeEmD46bYKu4XMqxdeHC7_qE7vCxLZ?usp=sharing) | 2019 | Not Clarified | 75 |
 [CSD](https://drive.google.com/drive/folders/1cwao5hZANp8m6_VA8_XhQP6-qh9ksQ1X?usp=sharing) | 2020 | Multiple | 11,298 |
 [Bai-2021](https://drive.google.com/drive/folders/1b-OljHOhwBpNIsuEm2ZZ13-MAEIp4EXg?usp=sharing) | 2021 | Building, Bridge | 2,229 |
 [CCCD](https://drive.google.com/drive/folders/1MwRyjB9_DtJ2mxkcXeU5NuM1YyLAj2oO?usp=sharing) | 2021 | Multiple | 10,995 |
-| |  | Total | 61,475
+| |  | Total | 517 (IRT), 60,958 (RGB)
 
 Sample images of above segmentation-oriented datasets are as follows:
 

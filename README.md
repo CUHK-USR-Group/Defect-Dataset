@@ -79,6 +79,7 @@ Dataset | Year | Structure Type | Number of Images |
 [CSD](https://drive.google.com/drive/folders/1cwao5hZANp8m6_VA8_XhQP6-qh9ksQ1X?usp=sharing) | 2020 | Multiple | 11,298 |
 [Bai-2021](https://drive.google.com/drive/folders/1b-OljHOhwBpNIsuEm2ZZ13-MAEIp4EXg?usp=sharing) | 2021 | Building, Bridge | 2,229 |
 [CCCD](https://drive.google.com/drive/folders/1MwRyjB9_DtJ2mxkcXeU5NuM1YyLAj2oO?usp=sharing) | 2021 | Multiple | 10,995 |
+Total|13250948|
 
 Sample images of above segmentation-oriented datasets are as follows:
 

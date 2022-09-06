@@ -80,7 +80,7 @@ Dataset | Year | Structure Type | Number of Images |
 [CSD](https://drive.google.com/drive/folders/1cwao5hZANp8m6_VA8_XhQP6-qh9ksQ1X?usp=sharing) | 2020 | Multiple | 11,298 |
 [Bai-2021](https://drive.google.com/drive/folders/1b-OljHOhwBpNIsuEm2ZZ13-MAEIp4EXg?usp=sharing) | 2021 | Building, Bridge | 2,229 |
 [CCCD](https://drive.google.com/drive/folders/1MwRyjB9_DtJ2mxkcXeU5NuM1YyLAj2oO?usp=sharing) | 2021 | Multiple | 10,995 |
-| | Total | 61,475 |
+| |  | Total | 61,475
 
 Sample images of above segmentation-oriented datasets are as follows:
 
@@ -97,7 +97,7 @@ Dataset | Year | Structure Type | Number of Images |
 [PID](https://drive.google.com/drive/folders/1hD0XJ5Ao3FFgGuc2KwwXkb_yYPVt0M9b?usp=sharing) | 2020 | Pavement | 7,237 |
 [CODEBRIM](https://drive.google.com/drive/folders/12B2ongbzxMDzrpYAXlpQuvcxCjkX-RXN?usp=sharing) | 2019 | Bridge | 1,590 |
 [GC10-DET](https://drive.google.com/drive/folders/1_RFn8MT8RBYZVX5mzg0Gp-sRBEzB5vI6?usp=sharing) | 2020 | Industrial Plant | 3,570 |
-| | Total | 108 (IRT), 41,353 (RGB) |
+| | | Total | 108 (IRT), 41,353 (RGB)
 
 Here, the RDD-2018 and RDD-2019 are omited.
 

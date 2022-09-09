@@ -46,8 +46,8 @@ Dataset | Year | Structure Type | Number of Images |
 [Phi-Net](https://pan.baidu.com/s/15hiPmDU7OYiYlJIO801xmg?pwd=0520) | 2020 | Building | 36,413 |
 [CSSC](https://pan.baidu.com/s/1yZcAdtVOaHUr7NAwQAsthA?pwd=0520) | 2017 | Bridge and Building | 89,287 |
 [SDNET-2018](https://pan.baidu.com/s/1kbwFM3KTdTH_5QCvVCazuw?pwd=0520) | 2018 | Bridge, Building and Pavement | 56,092 |
-[Qurishee (IRT) ](https://pan.baidu.com/s/1uq_au2f8Ok2Gxwskn9nd5Q?pwd=0520) | 2020 | Not Clarified | 2,088 |
-| |  | Total | 2088 (IRT), 13,248,860 (RGB) 
+[Qurishee](https://pan.baidu.com/s/1uq_au2f8Ok2Gxwskn9nd5Q?pwd=0520) | 2020 | Not Clarified | 2,088 |
+| | | Total | 13,250,948
 
 Sample images of above classification-oriented datasets are as follows:
 <p align="center">
@@ -80,7 +80,7 @@ Dataset | Year | Structure Type | Number of Images |
 [CSD](https://drive.google.com/drive/folders/1cwao5hZANp8m6_VA8_XhQP6-qh9ksQ1X?usp=sharing) | 2020 | Multiple | 11,298 |
 [Bai-2021](https://drive.google.com/drive/folders/1b-OljHOhwBpNIsuEm2ZZ13-MAEIp4EXg?usp=sharing) | 2021 | Building, Bridge | 2,229 |
 [CCCD](https://drive.google.com/drive/folders/1MwRyjB9_DtJ2mxkcXeU5NuM1YyLAj2oO?usp=sharing) | 2021 | Multiple | 10,995 |
-| |  | Total | 517 (IRT), 60,958 (RGB)
+| | | Total | 517 (IRT), 60,958 (RGB)
 
 Sample images of above segmentation-oriented datasets are as follows:
 

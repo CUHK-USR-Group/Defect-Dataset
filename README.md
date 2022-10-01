@@ -8,7 +8,7 @@ As demonstrated in the above figure, the summarized defect datasets cover variou
 
 For more detailed description of the datasets, please refer to our paper (under review):
 
-[Datasets and Processing Methods for Boosting Visual Inspection of Civil Infrastructure: A Comprehensive Review and Case Study on Crack Classification, Segmentation, and Detection](https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/CONBUILDMAT-S-22-06330%20(1).pdf)
+[Datasets and Processing Methods for Boosting Visual Inspection of Civil Infrastructure: A Comprehensive Review and Case Study on Crack Classification, Segmentation, and Detection](https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/CONBUILDMAT-D-22-04772_R2.pdf)
 
 Besides, we have conducted defect inspection in Hong Kong and established our dataset for building crack and spalling segmentation.
 

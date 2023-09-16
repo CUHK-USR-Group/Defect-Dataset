@@ -1,11 +1,5 @@
 ## Visual Defect Datasets --- Over 400,000 Labeled Images in Total 
 
-### CUBIT-Det
-We establish the first high-resolution dataset tailored for large-scale infrastructure defect detection, named CUBIT-Det. The dataset comprises $5,527$ visible images with a maximum resolution of $8000\times6000$ captured by the onboard cameras of the UAVs. The dataset covers the three most ubiquitous types of infrastructure, including building (65\%), pavement (29\%), and bridge (6\%), and targets for inspecting the three most critical types of surface defect, including crack (82\%), spalling (12\%), and moisture (6\%). The high-resolution images are collected from different viewpoints and distances under various illumination conditions, inherently offering more structure context information and model robustness for real-world inspection. The sample images from the CUBIT-Det dataset have been showed below. The first row of images are crack defects on building surfaces and the second row includes crack defects on pavements (first and second column) and bridges (third and forth column). The third row is about spalling, and the forth is about moisture.
-
-<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/sample.png">
-
-
 
 Deep learning breakthrough stimulates new research trends in civil infrastructure inspection, whereas the lack of quality-guaranteed, human-annotated, free-of-charge, and publicly available defect datasets with sufficient amounts of data hinders the progress of deep learning in defect inspection. To boost research in deep learning-based defect inspection, we review and summarize **40 publicly available defect datasets**, covering common defects in various types of buildings and infrastructures. **The taxonomy of the datasets** is proposed based on **specific deep learning objectives** (classification, segmentation, and detection). Clarifications are also made for each dataset regarding its corresponding **data volume, data resolution, data source, defect categories covered, infrastructure types focused, material types targeted, algorithms adopted for validation, annotation levels, and context levels**.
 
@@ -18,6 +12,10 @@ For more detailed description of the datasets, please refer to our paper:
 [Datasets and Processing Methods for Boosting Visual Inspection of Civil Infrastructure: A Comprehensive Review and Case Study on Crack Classification, Segmentation, and Detection](http://www.mae.cuhk.edu.hk/~bmchen/papers/2022_CBM.pdf)
 
 Besides, we have conducted defect inspection in Hong Kong and established our dataset for building crack and spalling segmentation.
+### CUBIT-Det
+We establish the first high-resolution dataset tailored for large-scale infrastructure defect detection, named CUBIT-Det. The dataset comprises $5,527$ visible images with a maximum resolution of $8000\times6000$ captured by the onboard cameras of the UAVs. The dataset covers the three most ubiquitous types of infrastructure, including building (65\%), pavement (29\%), and bridge (6\%), and targets for inspecting the three most critical types of surface defect, including crack (82\%), spalling (12\%), and moisture (6\%). The high-resolution images are collected from different viewpoints and distances under various illumination conditions, inherently offering more structure context information and model robustness for real-world inspection. The sample images from the CUBIT-Det dataset have been showed below. The first row of images are crack defects on building surfaces and the second row includes crack defects on pavements (first and second column) and bridges (third and forth column). The third row is about spalling, and the forth is about moisture.
+
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/sample.png">
 
 Moreover, we have noticed a multi-modal defect dataset, [SDNET-2021](https://commons.und.edu/data/19/), which contains 1,936 annotated IE signals, over 663,102 annotated GPR signals and 5 mosaic annotated IRT images containing about 4,580,680 annotated pixels collected during 2020 summer from 5 in-service bridge decks in Grand forks, ND, USA. 
 

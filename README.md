@@ -11,7 +11,7 @@ For more detailed description of the datasets, please refer to our paper:
 
 [Datasets and Processing Methods for Boosting Visual Inspection of Civil Infrastructure: A Comprehensive Review and Case Study on Crack Classification, Segmentation, and Detection](http://www.mae.cuhk.edu.hk/~bmchen/papers/2022_CBM.pdf)
 
-Besides, we have conducted defect inspection in Hong Kong and established our dataset for building crack and spalling segmentation.
+Besides, we have conducted defect inspection in Hong Kong and established our dataset (CUBIT-Det) for infrastructure defects detection.
 ### CUBIT-Det
 We establish the first high-resolution dataset tailored for large-scale infrastructure defect detection, named CUBIT-Det. The dataset comprises $5,527$ visible images with a maximum resolution of $8000\times6000$ captured by the onboard cameras of the UAVs. The dataset covers the three most ubiquitous types of infrastructure, including building (65\%), pavement (29\%), and bridge (6\%), and targets for inspecting the three most critical types of surface defect, including crack (82\%), spalling (12\%), and moisture (6\%). The high-resolution images are collected from different viewpoints and distances under various illumination conditions, inherently offering more structure context information and model robustness for real-world inspection. The sample images from the CUBIT-Det dataset have been showed below. The first row of images are crack defects on building surfaces and the second row includes crack defects on pavements (first and second column) and bridges (third and forth column). The third row is about spalling, and the forth is about moisture.
 

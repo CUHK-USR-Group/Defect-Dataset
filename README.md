@@ -5,12 +5,14 @@ We establish the first high-resolution dataset tailored for large-scale infrastr
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/sample.png" width=60% height=60%>
 </p>
 
+
+
 ## [Our Self-Collected Defect Segmentation Dataset: CUBIT-Seg](https://drive.google.com/drive/folders/1ea4YqIa9mfldCLWFquAKJXnCB3QzbgId?usp=sharing)
 
 Image Resolution | Year | Structure Type | Number of Images | Defect Type | Annotation Level
 --- | --- | --- | --- | --- | --- |
-512x512 | 2022 | Building | 1160 | Spalling | Pixel Level
-512x512 | 2022 | Building | 5462 | Crack | Pixel Level
+512x512 | 2023 | Building | 1160 | Spalling | Pixel Level
+512x512 | 2023 | Building | 5462 | Crack | Pixel Level
 
 Sample images of our self-collected defect dataset are as follows:
 

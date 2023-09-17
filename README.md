@@ -25,7 +25,7 @@ Sample images of our self-collected defect dataset are as follows:
 ## Visual Defect Datasets from Existing Works
 
 
-Deep learning breakthrough stimulates new research trends in civil infrastructure inspection, whereas the lack of quality-guaranteed, human-annotated, free-of-charge, and publicly available defect datasets with sufficient amounts of data hinders the progress of deep learning in defect inspection. To further boost research in deep learning-based defect inspection, we review and summarize **40 publicly available defect datasets**, covering common defects in various types of buildings and infrastructures. **The taxonomy of the datasets** is proposed based on **specific deep learning objectives** (classification, segmentation, and detection). Clarifications are also made for each dataset regarding its corresponding **data volume, data resolution, data source, defect categories covered, infrastructure types focused, material types targeted, algorithms adopted for validation, annotation levels, and context levels**.
+To further boost research in deep learning-based defect inspection, we review and summarize **40 publicly available defect datasets**, covering common defects in various types of buildings and infrastructures. **The taxonomy of the datasets** is proposed based on **specific deep learning objectives** (classification, segmentation, and detection). Clarifications are also made for each dataset regarding its corresponding **data volume, data resolution, data source, defect categories covered, infrastructure types focused, material types targeted, algorithms adopted for validation, annotation levels, and context levels**.
 
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Taxonomy.PNG">
 

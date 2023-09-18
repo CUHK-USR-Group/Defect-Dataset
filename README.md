@@ -105,7 +105,7 @@ Dataset | Year | Structure Type | Number of Images |
 [GC10-DET](https://drive.google.com/drive/folders/1_RFn8MT8RBYZVX5mzg0Gp-sRBEzB5vI6?usp=sharing) | 2020 | Industrial Plant | 3,570 |
 | | | Total | 108 (IRT), 41,353 (RGB)
 
-Here, the RDD-2018 and RDD-2019 are omited.
+Here, the RDD-2018 and RDD-2019 are omitted.
 
 Sample images of above detection-oriented datasets are as follows:
 

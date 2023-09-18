@@ -14,7 +14,7 @@ Image Resolution | Year | Structure Type | Number of Images | Defect Type | Anno
 512x512 | 2023 | Building | 1160 | Spalling | Pixel Level
 512x512 | 2023 | Building | 5462 | Crack | Pixel Level
 
-Sample images of our self-collected defect dataset are as follows:
+The sample images from the CUBIT-Seg dataset have been showed below
 
 <p align="center">
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Sample_Images/CUBIT-Seg_Sample_Images.png" width=100% height=100%>

@@ -15,7 +15,7 @@ The sample images from the CUBIT-Det dataset have been showed below. The first r
 
 ## [Our Self-Collected Defect Segmentation Dataset: CUBIT-Seg](https://drive.google.com/drive/folders/1ea4YqIa9mfldCLWFquAKJXnCB3QzbgId?usp=sharing)
 
-Except for CUBIT-Det, we also construct a pixel-level annotated defect dataset, CUBIT-Seg, for the segmentation task of critical defects (crack, spalling) in building facades. We utilize UAVs and DSLRs for data collection in Hong Kong, clean the data to remove duplicate and low-quality images, label the rest of the images pixel-by-pixel, and crop the images into $512\times512$ resolution. CUBIT-Seg contains 1160 images for spalling segmentation and 5462 images for crack segmentation.
+Except for CUBIT-Det, we also construct a pixel-level annotated defect dataset, CUBIT-Seg, for the segmentation task of critical defects (crack, spalling) in building facades. We utilize UAVs and DSLRs for image collection in Hong Kong, clean the collected images to remove duplicate and low-quality images, label the rest of the images pixel-by-pixel, and crop the images into $512\times512$ resolution. CUBIT-Seg contains 1160 images for spalling segmentation and 5462 images for crack segmentation.
 
 Image Resolution | Year | Structure Type | Number of Images | Defect Type | Annotation Level
 --- | --- | --- | --- | --- | --- |

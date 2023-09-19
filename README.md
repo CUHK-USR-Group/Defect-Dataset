@@ -5,7 +5,7 @@ Image Resolution | Year | Structure Type | Number of Images | Defect Type | Anno
 --- | --- | --- | --- | --- | --- |
 4624x3472, 8000x6000 | 2023 | Building, Pavement, Bridge | 5527 | Crack, Spalling, Moisture | Bounding-box Level
 
-The sample images from the CUBIT-Det dataset have been showed below. The first row is crack on building surfaces and the second row includes crack on pavements (first and second column) and bridges (third and forth column). The third row is spalling and the forth is moisture.
+The sample images from the CUBIT-Det dataset have been shown below. The first row is crack on building surfaces and the second row includes crack on pavements (first and second column) and bridges (third and forth column). The third row is spalling and the forth is moisture.
 
 <p align="center">
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Sample_Images/CUBIT-Det_Sample_Images.png" width=60% height=60%>
@@ -22,7 +22,7 @@ Image Resolution | Year | Structure Type | Number of Images | Defect Type | Anno
 512x512 | 2023 | Building | 1160 | Spalling | Pixel Level
 512x512 | 2023 | Building | 5462 | Crack | Pixel Level
 
-The sample images from the CUBIT-Seg dataset have been showed below:
+The sample images from the CUBIT-Seg dataset have been shown below:
 
 <p align="center">
 <img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Sample_Images/CUBIT-Seg_Sample_Images.png" width=100% height=100%>

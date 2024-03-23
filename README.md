@@ -8,7 +8,7 @@ Image Resolution | Year | Structure Type | Number of Images | Defect Type | Anno
 The sample images from the CUBIT-Det dataset have been shown below. The first row is crack on building surfaces and the second row includes crack on pavements (first and second column) and bridges (third and forth column). The third row is spalling and the forth is moisture.
 
 <p align="center">
-<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Sample_Images/CUBIT-Det_Sample_Images.png" width=60% height=60%>
+<img src="https://github.com/CUHK-USR-Group/Defect-Dataset/blob/main/Sample_Images/CUBIT-Det_Sample_Images.pdf" width=60% height=60%>
 </p>
 
 

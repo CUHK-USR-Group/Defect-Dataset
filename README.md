@@ -3,7 +3,7 @@ We establish the first high-resolution dataset tailored for large-scale infrastr
 
 Image Resolution | Year | Structure Type | Number of Images | Defect Type | Annotation Level
 --- | --- | --- | --- | --- | --- |
-4624x3472, 8000x6000 | 2023 | Building, Pavement, Bridge | 5527 | Crack, Spalling, Moisture | Bounding-box Level
+4624x3472, 8000x6000 | 2024 | Building, Pavement, Bridge | 5527 | Crack, Spalling, Moisture | Bounding-box Level
 
 The sample images from the CUBIT-Det dataset have been shown below. The first row is crack on building surfaces and the second row includes crack on pavements (first and second column) and bridges (third and forth column). The third row is spalling and the forth is moisture.
 
@@ -19,8 +19,8 @@ Except for CUBIT-Det, we also construct a pixel-level annotated defect dataset, 
 
 Image Resolution | Year | Structure Type | Number of Images | Defect Type | Annotation Level
 --- | --- | --- | --- | --- | --- |
-512x512 | 2023 | Building | 1160 | Spalling | Pixel Level
-512x512 | 2023 | Building | 5462 | Crack | Pixel Level
+512x512 | 2024 | Building | 1160 | Spalling | Pixel Level
+512x512 | 2024 | Building | 5462 | Crack | Pixel Level
 
 The sample images from the CUBIT-Seg dataset have been shown below:
 

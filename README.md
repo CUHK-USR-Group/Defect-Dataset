@@ -26,6 +26,7 @@ year = {2022},
 issn = {0950-0618},
 doi = {https://doi.org/10.1016/j.conbuildmat.2022.129226},
 }
+```
 
 ## [Our Self-Established Defect Detection Dataset: CUBIT-Det](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155145791_link_cuhk_edu_hk/Erp8qLcMospKnf2d7rN4BwEBEpaWDf80YvMGeIxjWmbZlg?e=THmVvp)
 We establish the first high-resolution dataset tailored for large-scale infrastructure defect detection, named CUBIT-Det (ACCESS CODE: cubit-det). The dataset comprises 5,527 visible images with a maximum resolution of $8000\times6000$ captured by the onboard cameras of the UAVs. The dataset covers the three most ubiquitous types of infrastructure, including building (65\%), pavement (29\%), and bridge (6\%), and targets for inspecting the three most critical types of surface defect, including crack (82\%), spalling (12\%), and moisture (6\%). The high-resolution images are collected from different viewpoints and distances under various illumination conditions, inherently offering more structure context information and model robustness for real-world inspection.

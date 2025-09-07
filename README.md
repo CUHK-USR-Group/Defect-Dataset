@@ -2,7 +2,7 @@ We would greatly appreciate it if you could cite the following papers when these
 
 ## 📖 Citation
 
-If you find these datasets useful in your research, we would greatly appreciate it if you could cite the following paper:
+If you find these datasets useful in your research, we would greatly appreciate it if you could cite the following papers:
 
 ### BibTeX
 ```bibtex

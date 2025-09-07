@@ -1,4 +1,4 @@
-We would greatly appreciate it if you could cite the following paper when this dataset contributes to your work：
+We would greatly appreciate it if you could cite the following papers when these datasets contributes to your work：
 
 ## 📖 Citation
 

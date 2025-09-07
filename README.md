@@ -25,6 +25,7 @@ pages = {129226},
 year = {2022},
 issn = {0950-0618},
 doi = {https://doi.org/10.1016/j.conbuildmat.2022.129226},
+author = {Guidong Yang and Kangcheng Liu and Jihan Zhang and Benyun Zhao and Zuoquan Zhao and Xi Chen and Ben M. Chen}, 
 }
 ```
 
